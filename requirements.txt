@@ -1,0 +1,6 @@
+llama_index
+mcp_server_sdk
+playwright
+asyncio
+requests
+json
